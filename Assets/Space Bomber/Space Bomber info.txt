@@ -1,0 +1,16 @@
+Spaceship bomber, 356 Tris
+
+1 X Texture map
+
+1 X Specular map
+
+1 X Texture map + Specular Alpha for Unity.
+
+
+Any Questions or anything else you would like let me know.
+
+duane_mayberry@yahoo.co.uk
+
+www.duanesmind.co.uk
+
+ENJOY!
