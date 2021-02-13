@@ -1,2 +1,3 @@
 # Minute-Runner
-Simple mobile app game using the Unity engine.
+Simple runner like game using the Unity engine.
+One of my beginner projects practicing methods/classes/OOP concepts!
